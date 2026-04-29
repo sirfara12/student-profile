@@ -97,6 +97,13 @@ export default function Home() {
                 Aplikasi mobile untuk memfasilitasi komunikasi dan layanan antar warga di lingkungan kampus.
               </p>
             </div>
+            <div className="p-4 rounded-xl border border-zinc-200 dark:border-zinc-800">
+              <h3 className="font-semibold">Sistem Rekomendasi Ruang kelas</h3>
+              <p className="text-sm text-zinc-600 dark:text-zinc-400">
+                Web system untuk rekomendasi ruang kelas berbasis jadwal dan kapasitas.
+              </p>
+            </div>
+
 
           </div>
         </div>
